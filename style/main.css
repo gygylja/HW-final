@@ -4,12 +4,13 @@
     box-sizing: border-box;
 }
 
-body{
-    background-color: rgb(218, 36, 36);
-}
-
 h1{
     color: blue;
     text-align: center;
-    margin: 10px 0;
+    margin: 20px 0;
+}
+
+h3{
+    color: blueviolet;
+    text-align: right;
 }
